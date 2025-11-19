@@ -1,0 +1,2 @@
+# atividadedepythonaws
+émano
